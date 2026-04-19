@@ -10,7 +10,7 @@ class Triangle {
 	
 	public void setBase(float base) {
 		this.base = base;
-	}
+	} 
 	
 	public float getBase() {
 		return base;
