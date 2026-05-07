@@ -13,7 +13,7 @@ class Triangle {
 	} 
 	
 	public float getBase() {
-		return base;
+		return base; 
 	}
 	
 	public void setHeight(float height) {

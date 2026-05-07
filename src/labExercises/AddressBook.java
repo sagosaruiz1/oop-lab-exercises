@@ -105,8 +105,8 @@ public class AddressBook {
 				System.out.print("Telephone Number: ");
 				String phone = sc.nextLine();
 				System.out.print("Email Address: "); 
-				String email = sc.nextLine();
-				book.addEntry(name, address, phone, email);
+				String email = sc.nextLine(); 
+				book.addEntry(name, address, phone, email); 
 				break;
 			
 			case 2:
