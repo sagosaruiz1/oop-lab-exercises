@@ -1,4 +1,4 @@
-package labExercises;
+package labExercise;
 
 
 class Fruit {

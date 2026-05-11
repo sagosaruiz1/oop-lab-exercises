@@ -1,4 +1,4 @@
-package labExercises;
+package labExercise;
 import java.util.Scanner;
 
 class AddressBookEntry {
