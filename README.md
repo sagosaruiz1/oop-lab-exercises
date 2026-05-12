@@ -79,7 +79,7 @@ The area of a circle is 78.53981633974483
 
 ## Author
 
-**sagosaruiz1** — Computer Science Student
+**Ruiz Sagosa** — Computer Science Student
 
 ---
 
