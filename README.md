@@ -83,6 +83,6 @@ The area of a circle is 78.53981633974483
 
 ---
 
-## 📄 License
+## License
 
 This repository is for educational purposes.
