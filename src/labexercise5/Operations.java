@@ -1,4 +1,4 @@
-package labExercise;
+package labexercise5;
 
 import java.util.Scanner;
 
